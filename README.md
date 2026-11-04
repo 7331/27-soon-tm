@@ -14,6 +14,5 @@ Both already changed in iOS 27.2.
 
 - `poc_unbounded_paramsets.swift`
 - `poc_negative_dims.swift`
-- `tools/` — kext/kernel differ, string-xref resolver, IOExternalMethodDispatch dumper
 
 Tested: Xcode 27.2, device build, arm64e.
